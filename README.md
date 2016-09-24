@@ -1,2 +1,2 @@
 # MO-FO
-Modal windows with fixed positioning and nice overflow
+*Mo*dal windows with *f*ixed positioning and solid *o*verflow
