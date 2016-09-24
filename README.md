@@ -1,2 +1,2 @@
 # MO-FO
-*Mo*dal windows with *f*ixed positioning and solid *o*verflow
+**Mo**dal panels with **F**ixed positioning and solid **O**verflow
