@@ -1,2 +1,2 @@
-# Pop Tart
-Create pop ups that scroll nicely without affecting the content behind them
+# MO-FO
+Modal windows with fixed positioning and nice overflow
