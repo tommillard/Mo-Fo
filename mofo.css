@@ -1,0 +1,20 @@
+.moFo {
+	position: fixed;
+	display: none;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+.moFo.active {
+	display: block;
+}
+
+.moFo-noscroll {
+	top: 40%;
+	transform: translateY(-50%);
+	bottom: auto;
+}
